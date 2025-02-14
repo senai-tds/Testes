@@ -1,0 +1,24 @@
+Anotações:
+
+### COMANDOS LINUX ###
+==> touch [nomeDoArquivo.ext]: cria arquivo em branco
+==> echo "conteúdo" > [nomeDoArquivo.ext]: escreve no arquivo apagando todo o seu conteúdo
+==> echo "conteúdo" >> [nomeDoArquivo.ext]: estende (append) no arquivo preservando o seu conteúdo
+==> cat [nomeDoArquivo.ext] exibe arquivo na tela
+==> ls -d .*/ exibe arquivos e diretórios ocultos no git bash
+==> mkdir [nomeDiretorio]: criar um novo diretório
+==> cd [nomeDiretorio]/: navegar entre diretórios
+==> rm -rf [nomeDiretorio]: apaga diretórios sem confirmção de forma recursiva
+
+### COMANDOS GIT ###
+==> git init: cria repositório local
+==> git status: ratrear arquivos modificados
+==> git show: mostra alterações realizadas
+==> git config --global --list: exibe configurações globais
+==> git config --global user.name "fulano-de-tal": configura conta de usuário no git
+==> git config --global user.email "fulano@teste.com": configura email do usuário
+==> git reset [arquivo.ext]: remover arqvuio da area staging
+==> git diff [arquivo.ext]: exibe arquivo com diferenças
+==> git add [arquivo.ext]: adicionar arquivo na area staging
+==> git remote add origin https://github.com/senai-tds/Algoritmos.git mapear no repositorio local o repositório remoto
+
