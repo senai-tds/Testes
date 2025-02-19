@@ -5,3 +5,5 @@ Duração: 40h (10 dias)
 Turma: APP-N-G00033 / 2025
 Sala: Plataforma TEAMS
 
+### Linha adicionada pela ALICE em 19/02/2025 - 10:07 ###
+
