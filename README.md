@@ -5,9 +5,3 @@ Duração: 40h (10 dias)
 Turma: APP-N-G00033 / 2025
 Sala: Plataforma TEAMS
 
-### Lembrei do comando: git status ###
-
-### Lembrei do comando: git commit ###
-
-### Aprendi o combando: git branch ###
-
